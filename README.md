@@ -1,1 +1,1 @@
-DavidKermes.github.io/google-search
+https://DavidKermes.github.io/google-search
